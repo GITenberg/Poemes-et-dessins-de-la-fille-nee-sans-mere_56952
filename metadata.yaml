@@ -1,5 +1,8 @@
 _repo: Poemes-et-dessins-de-la-fille-nee-sans-mere_56952
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56952-h/images/cover.jpg
 creator:
   author:
     agent_name: Picabia, Francis
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49071
     wikipedia: https://en.wikipedia.org/wiki/Francis_Picabia
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56952#Poemes-et-dessins-de-la-fille-nee-sans-mere
 gutenberg_bookshelf:
 - FR Poésie
 - FR Nouveautés
